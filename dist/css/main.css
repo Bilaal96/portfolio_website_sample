@@ -156,7 +156,7 @@ img {
   color: #fff; }
   #header-home .header-content {
     text-align: center;
-    padding-top: 26rem; }
+    padding-top: 25%; }
     #header-home .header-content h1 {
       font-size: 4rem;
       line-height: 1.2; }
